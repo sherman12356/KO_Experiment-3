@@ -47,7 +47,7 @@ car.loc[(car['Model']=='Camaro Z28'),['Model','cyl']]
 # In[76]:
 
 
-#c.
+#d.
 #read the car_csv file
 car=pd.read_csv('cars.csv')
 
