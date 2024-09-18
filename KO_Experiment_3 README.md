@@ -40,18 +40,17 @@ Make sure to save each file with the appropriate naming convention (Surname_Pand
  Make sure your code is well-commented and follows the instructions closely.
 
 ## Example Output:
-`import pandas as pd`
+```python
 
+import pandas as pd
 
-`#read the car_csv file`
+#read the car_csv file
+car=pd.read_csv('cars.csv')
 
-`car=pd.read_csv('cars.csv')`
+#Display the first five and last five rows of the car
+car.iloc[[*range(5), *range(-5, 0)]]
 
-
-`#Display the first five and last five rows of the cars`
-
-`car.iloc[[*range(5), *range(-5, 0)]]`
-
+  ```
 ## VI. HIstory:
 - V1 : intial code for problem 1
 - V2 : Fixed and added markdown to the code
