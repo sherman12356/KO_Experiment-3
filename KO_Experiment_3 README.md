@@ -36,7 +36,7 @@ After completing each problem, run your Python script in Jupyter Notebook or fro
 Make sure to save each file with the appropriate naming convention (Surname_Pandas-P1.py, Surname_Pandas-P2.py, etc.).
 
 ## IV. Submission:
- Submit your `.py` files and Jupyter Notebook in the dedicated submission folder before the deadline.
+ Submit your `.py` files in the dedicated submission folder before the deadline.
  Make sure your code is well-commented and follows the instructions closely.
 
 ## Example Output:
